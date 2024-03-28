@@ -1,3 +1,5 @@
+// Debouncing
+
 let counter = 0;
 
 function debounce(func, delay) {
